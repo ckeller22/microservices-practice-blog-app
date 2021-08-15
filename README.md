@@ -1,2 +1,2 @@
 # microservices-practice-blog-app
-![](Microservices Demo.gif)
+![](./Microservices Demo.gif)
