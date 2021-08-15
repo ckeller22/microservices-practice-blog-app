@@ -1,2 +1,2 @@
 # microservices-practice-blog-app
-![Alt Text](MicroservicesDemo.gif)
+![Showcase of blog application](Microservices Demo.gif)
